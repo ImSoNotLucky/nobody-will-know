@@ -1,0 +1,22 @@
+{
+	id: "67591988-a8ac-4b32-9aa7-3708567c55fa"
+	type: "party"
+	owner: "30eca192-83d2-38d1-93f5-8989dda1c4d2"
+	ranks: {
+		30eca192-83d2-38d1-93f5-8989dda1c4d2: "owner"
+		41a1a346-8f47-31d0-a771-2b6132c5bfa1: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "The Team"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D7FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736839636939L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"kyslucky\"}]}" }
+		{ from: "30eca192-83d2-38d1-93f5-8989dda1c4d2", date: 1736839636943L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"GetSkittled\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736839638779L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"GetSkittled\"}]}" }
+	]
+	extra: { }
+}

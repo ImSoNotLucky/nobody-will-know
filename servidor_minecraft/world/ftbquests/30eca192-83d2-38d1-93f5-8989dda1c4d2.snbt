@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "30eca19283d238d193f58989dda1c4d2"
+	name: "kyslucky#30eca192"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

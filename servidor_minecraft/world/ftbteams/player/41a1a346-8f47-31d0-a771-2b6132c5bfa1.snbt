@@ -1,0 +1,15 @@
+{
+	id: "41a1a346-8f47-31d0-a771-2b6132c5bfa1"
+	type: "player"
+	player_name: "GetSkittled"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "GetSkittled"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

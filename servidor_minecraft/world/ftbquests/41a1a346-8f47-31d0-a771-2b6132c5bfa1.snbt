@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "41a1a3468f4731d0a7712b6132c5bfa1"
+	name: "GetSkittled#41a1a346"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
