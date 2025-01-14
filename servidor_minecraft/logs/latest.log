@@ -1447,3 +1447,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 09:02:28.046] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
 [14Jan2025 09:11:16.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=69, z=-3445} BlockPos{x=-3, y=67, z=-3445}
 [14Jan2025 09:11:16.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=69, z=-3445} BlockPos{x=-3, y=67, z=-3445}
+[14Jan2025 09:32:06.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kyslucky[/100.111.216.109:55042] logged in with entity id 42942 at (7.2054117864979395, 65.0, -3437.0961758396356)
+[14Jan2025 09:32:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kyslucky joined the game
+[14Jan2025 09:32:06.707] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to kyslucky
+[14Jan2025 09:32:06.732] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 30eca192-83d2-38d1-93f5-8989dda1c4d2
+[14Jan2025 09:32:06.767] [Server thread/INFO] [Jade/]: Syncing config to kyslucky (30eca192-83d2-38d1-93f5-8989dda1c4d2)
+[14Jan2025 09:32:06.767] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged In - Checking for Calendar Updates.
+[14Jan2025 09:32:06.767] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
+[14Jan2025 09:32:08.221] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from kyslucky
+[14Jan2025 09:32:19.167] [Server thread/INFO] [do_a_barrel_roll/]: Client of kyslucky accepted server config.
+[14Jan2025 09:36:01.496] [Server thread/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Collapse started at pos BlockPos{x=-1, y=64, z=-3421}, with the block column Block{minecraft:air} -> (start: Block{tfc:rock/raw/rhyolite}[axis=y]) -> Block{minecraft:air}
