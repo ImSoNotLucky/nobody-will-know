@@ -2114,3 +2114,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 17:09:34.045] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 42cf9bab-bb7a-3d0b-9d1e-3d1a839b6021
 [14Jan2025 17:09:34.045] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged Out - Checking for Calendar Updates.
 [14Jan2025 17:09:34.045] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = false, Daylight = false (true) due to no players logged in
+[14Jan2025 17:29:54.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sakura_Adachi[/100.74.98.64:55548] logged in with entity id 416849 at (6197.480820894045, 79.0, 8386.268488051222)
+[14Jan2025 17:29:54.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi joined the game
+[14Jan2025 17:29:54.583] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Sakura_Adachi
+[14Jan2025 17:29:54.584] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 42cf9bab-bb7a-3d0b-9d1e-3d1a839b6021
+[14Jan2025 17:29:54.593] [Server thread/INFO] [Jade/]: Syncing config to Sakura_Adachi (42cf9bab-bb7a-3d0b-9d1e-3d1a839b6021)
+[14Jan2025 17:29:54.593] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged In - Checking for Calendar Updates.
+[14Jan2025 17:29:54.593] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
