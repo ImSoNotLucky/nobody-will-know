@@ -1,0 +1,15 @@
+{
+	id: "42cf9bab-bb7a-3d0b-9d1e-3d1a839b6021"
+	type: "player"
+	player_name: "Sakura_Adachi"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Sakura_Adachi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFFA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

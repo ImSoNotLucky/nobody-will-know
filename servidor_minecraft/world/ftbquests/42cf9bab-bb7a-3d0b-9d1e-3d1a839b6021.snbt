@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "42cf9babbb7a3d0b9d1e3d1a839b6021"
+	name: "Sakura_Adachi#42cf9bab"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

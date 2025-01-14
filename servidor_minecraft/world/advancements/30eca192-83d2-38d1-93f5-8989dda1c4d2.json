@@ -203,5 +203,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-14 10:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-14 10:32:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
