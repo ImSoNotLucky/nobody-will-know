@@ -1929,3 +1929,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 13:57:03.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
 [14Jan2025 13:57:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
 [14Jan2025 13:57:09.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity tfc:squid but it was marked as removed already
+[14Jan2025 13:58:41.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> wait a sec
+[14Jan2025 14:00:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> go SE
+[14Jan2025 14:00:44.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> also one other thing
+[14Jan2025 14:01:07.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> one of you said "she".. im a he bruh
+[14Jan2025 14:01:30.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> howww far
+[14Jan2025 14:01:48.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.2665493248914572
+[14Jan2025 14:01:48.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.26444068882483407
+[14Jan2025 14:06:07.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.7121922600708785
+[14Jan2025 14:06:07.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.5698016671176447
+[14Jan2025 14:06:07.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.38577025777613017
+[14Jan2025 14:06:07.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.5406709662684079
+[14Jan2025 14:06:07.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.5406709662684079
+[14Jan2025 14:06:07.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pine Dugout Canoe (vehicle of Sakura_Adachi) moved wrongly! 0.4261180063786014
+[14Jan2025 14:07:12.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> you guys found water?
+[14Jan2025 14:07:52.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> kill em
+[14Jan2025 14:07:54.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> me
+[14Jan2025 14:07:55.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kyslucky is bleeding. kyslucky was slain by GetSkittled
+[14Jan2025 14:07:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi is bleeding. Sakura_Adachi was slain by GetSkittled
+[14Jan2025 14:08:02.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kyslucky was slain by GetSkittled
+[14Jan2025 14:08:03.635] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 14:08:03.758] [Server thread/INFO] [do_a_barrel_roll/]: Client of kyslucky accepted server config.
+[14Jan2025 14:08:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi was slain by GetSkittled
+[14Jan2025 14:08:06.753] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 14:08:07.036] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sakura_Adachi accepted server config.
+[14Jan2025 14:08:10.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled is bleeding. GetSkittled was slain by kyslucky
+[14Jan2025 14:08:16.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled was slain by kyslucky
+[14Jan2025 14:08:17.589] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 14:08:17.667] [Server thread/INFO] [do_a_barrel_roll/]: Client of GetSkittled accepted server config.
+[14Jan2025 14:08:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> i need to cook some food first
+[14Jan2025 14:12:25.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled is bleeding. GetSkittled was slain by kyslucky
+[14Jan2025 14:12:31.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled was slain by kyslucky
+[14Jan2025 14:12:33.078] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 14:12:33.148] [Server thread/INFO] [do_a_barrel_roll/]: Client of GetSkittled accepted server config.
+[14Jan2025 14:12:52.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kyslucky is bleeding. kyslucky was impaled by GetSkittled
+[14Jan2025 14:13:01.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kyslucky was impaled by GetSkittled
+[14Jan2025 14:13:03.289] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 14:13:03.397] [Server thread/INFO] [do_a_barrel_roll/]: Client of kyslucky accepted server config.
+[14Jan2025 14:13:44.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> im back
+[14Jan2025 14:13:57.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi is bleeding. Sakura_Adachi was slain by kyslucky
+[14Jan2025 14:14:06.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi was slain by kyslucky
+[14Jan2025 14:14:08.421] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 14:14:08.737] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sakura_Adachi accepted server config.
+[14Jan2025 14:14:11.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> tp me
+[14Jan2025 14:14:15.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kyslucky: Teleported Sakura_Adachi to kyslucky]
+[14Jan2025 14:14:36.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> we move again
+[14Jan2025 14:16:30.559] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity tfc:squid but it was marked as removed already
