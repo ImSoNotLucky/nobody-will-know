@@ -2121,3 +2121,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 17:29:54.593] [Server thread/INFO] [Jade/]: Syncing config to Sakura_Adachi (42cf9bab-bb7a-3d0b-9d1e-3d1a839b6021)
 [14Jan2025 17:29:54.593] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged In - Checking for Calendar Updates.
 [14Jan2025 17:29:54.593] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
+[14Jan2025 17:29:56.489] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Sakura_Adachi
+[14Jan2025 17:30:09.295] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sakura_Adachi accepted server config.
+[14Jan2025 17:33:56.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi is bleeding. Sakura_Adachi burned to death
+[14Jan2025 17:34:56.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi burned to death
+[14Jan2025 17:34:58.620] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jan2025 17:34:58.904] [Server thread/INFO] [do_a_barrel_roll/]: Client of Sakura_Adachi accepted server config.
+[14Jan2025 17:35:04.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sakura_Adachi lost connection: Disconnected
+[14Jan2025 17:35:04.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi left the game
+[14Jan2025 17:35:04.296] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 42cf9bab-bb7a-3d0b-9d1e-3d1a839b6021
+[14Jan2025 17:35:04.296] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged Out - Checking for Calendar Updates.
+[14Jan2025 17:35:04.296] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = false, Daylight = false (true) due to no players logged in
