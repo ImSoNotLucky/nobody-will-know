@@ -1617,3 +1617,163 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 10:45:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> i cant read the book though lol
 [14Jan2025 10:45:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> doesnt load for me
 [14Jan2025 10:45:44.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> you can fix it you just gotta delete that file that cant load
+[14Jan2025 10:47:07.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> give me saw
+[14Jan2025 10:48:50.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> imma head south east for a bit, see if i can find any animal
+[14Jan2025 10:48:59.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> okay
+[14Jan2025 10:50:54.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> i see deer
+[14Jan2025 10:57:18.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> got the deer
+[14Jan2025 10:57:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> no bladder, sad
+[14Jan2025 11:00:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> its sooo dark
+[14Jan2025 11:04:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> made 2 canoe
+[14Jan2025 11:04:17.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> nice
+[14Jan2025 11:04:48.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> no animals in sigh here
+[14Jan2025 11:05:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> except a pack of wolves
+[14Jan2025 11:05:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> finally its morning again
+[14Jan2025 11:05:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> canoe takes forever
+[14Jan2025 11:05:49.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> takes 8 mins to burn
+[14Jan2025 11:06:47.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=346, y=84, z=-2996} BlockPos{x=345, y=84, z=-2997}
+[14Jan2025 11:06:50.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=350, y=82, z=-2995} BlockPos{x=349, y=81, z=-2994}
+[14Jan2025 11:06:51.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=84, z=-2992} BlockPos{x=347, y=81, z=-2990}
+[14Jan2025 11:06:51.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=345, y=84, z=-2990} BlockPos{x=344, y=82, z=-2989}
+[14Jan2025 11:06:51.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=345, y=82, z=-2989} BlockPos{x=343, y=82, z=-2988}
+[14Jan2025 11:06:52.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=80, z=-2988} BlockPos{x=346, y=80, z=-2988}
+[14Jan2025 11:06:58.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=354, y=82, z=-2976} BlockPos{x=355, y=81, z=-2975}
+[14Jan2025 11:07:04.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=359, y=84, z=-2981} BlockPos{x=360, y=82, z=-2981}
+[14Jan2025 11:07:04.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=359, y=84, z=-2981} BlockPos{x=360, y=82, z=-2981}
+[14Jan2025 11:07:12.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=84, z=-2975} BlockPos{x=359, y=82, z=-2974}
+[14Jan2025 11:07:16.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=354, y=81, z=-2974} BlockPos{x=354, y=80, z=-2975}
+[14Jan2025 11:07:16.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=354, y=81, z=-2974} BlockPos{x=354, y=80, z=-2975}
+[14Jan2025 11:07:16.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=353, y=82, z=-2974} BlockPos{x=353, y=80, z=-2974}
+[14Jan2025 11:07:16.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=353, y=82, z=-2974} BlockPos{x=353, y=80, z=-2974}
+[14Jan2025 11:08:24.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=82, z=-2978} BlockPos{x=371, y=81, z=-2977}
+[14Jan2025 11:08:50.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=390, y=86, z=-2968} BlockPos{x=389, y=84, z=-2968}
+[14Jan2025 11:12:04.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> both the canoes sunk
+[14Jan2025 11:12:21.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> why lmao
+[14Jan2025 11:12:30.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> well thats why im confused
+[14Jan2025 11:14:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> i found graphite vein
+[14Jan2025 11:14:26.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> ooo
+[14Jan2025 11:14:31.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> yet no animal
+[14Jan2025 11:14:40.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> damn it, should i return ?
+[14Jan2025 11:16:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> a boar!
+[14Jan2025 11:17:30.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> fuck they attack back
+[14Jan2025 11:18:25.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> yeah theyre crazy
+[14Jan2025 11:18:39.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> ill see if i can somehow kill it
+[14Jan2025 11:21:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> fuck theyre strong
+[14Jan2025 11:21:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> im somehow alive
+[14Jan2025 11:21:32.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> and night only makes this harder
+[14Jan2025 11:23:35.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> the stupid fuck just wont die aghhhh
+[14Jan2025 11:23:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> ive hit it soo many times
+[14Jan2025 11:24:05.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> and ill die from one attack of it most prolly
+[14Jan2025 11:24:44.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> yeah thats whhy i try not to fight things
+[14Jan2025 11:24:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> moose is the worse thing to fight
+[14Jan2025 11:24:58.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> i know theres a sabertooth
+[14Jan2025 11:25:03.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> a crocidile
+[14Jan2025 11:25:18.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> crocodile* lmfao
+[14Jan2025 11:25:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> finally killed the fucker
+[14Jan2025 11:25:37.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> 7 raw pork and no bladder
+[14Jan2025 11:25:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> sob
+[14Jan2025 11:25:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> i had a bladder drop earlier but my inv was full
+[14Jan2025 11:25:53.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> so i left it
+[14Jan2025 11:26:03.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> skull emoji
+[14Jan2025 11:26:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> ox cow and ox bull
+[14Jan2025 11:26:36.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> do they fight back ?
+[14Jan2025 11:26:40.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> prob
+[14Jan2025 11:26:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> i know normal cows dont
+[14Jan2025 11:26:58.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> time to know or die
+[14Jan2025 11:27:20.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> hell yeah
+[14Jan2025 11:27:26.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> bladder
+[14Jan2025 11:29:05.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> 2 bladder
+[14Jan2025 11:29:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> we just need one more for your friend
+[14Jan2025 11:30:00.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> whats pheasant ?
+[14Jan2025 11:30:05.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> i think a bird
+[14Jan2025 11:30:32.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> holy shit i found alpaca
+[14Jan2025 11:30:40.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> lmfao
+[14Jan2025 11:32:28.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> nice i found some nice things
+[14Jan2025 11:32:36.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> 3 sheepskin hide
+[14Jan2025 11:33:23.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> cows and goat !!
+[14Jan2025 11:33:33.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> cows always drop the large skin
+[14Jan2025 11:37:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> what all do i need to bring from the house]
+[14Jan2025 11:37:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> not sure myself tbh
+[14Jan2025 11:37:52.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> i found some clay btw
+[14Jan2025 11:38:02.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> what clay
+[14Jan2025 11:38:09.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> normal
+[14Jan2025 11:38:11.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> boo
+[14Jan2025 11:38:30.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> lol
+[14Jan2025 11:43:37.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> time to head back home my inventory is full
+[14Jan2025 11:46:03.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> light again finally
+[14Jan2025 11:47:09.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GetSkittled[/100.117.69.83:55420] logged in with entity id 164444 at (7.766677166562644, 64.0, -3428.682393510125)
+[14Jan2025 11:47:09.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled joined the game
+[14Jan2025 11:47:09.294] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to GetSkittled
+[14Jan2025 11:47:09.296] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 41a1a346-8f47-31d0-a771-2b6132c5bfa1
+[14Jan2025 11:47:09.332] [Server thread/INFO] [Jade/]: Syncing config to GetSkittled (41a1a346-8f47-31d0-a771-2b6132c5bfa1)
+[14Jan2025 11:47:09.333] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged In - Checking for Calendar Updates.
+[14Jan2025 11:47:09.333] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
+[14Jan2025 11:47:10.963] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from GetSkittled
+[14Jan2025 11:47:22.255] [Server thread/INFO] [do_a_barrel_roll/]: Client of GetSkittled accepted server config.
+[14Jan2025 11:47:45.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> welcome back skittle
+[14Jan2025 11:47:58.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> yuhh
+[14Jan2025 11:49:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> oooh more clay
+[14Jan2025 11:49:35.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=63, z=-3422} BlockPos{x=25, y=61, z=-3422}
+[14Jan2025 11:49:35.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=63, z=-3422} BlockPos{x=25, y=61, z=-3422}
+[14Jan2025 11:49:45.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=62, z=-3431} BlockPos{x=24, y=61, z=-3432}
+[14Jan2025 11:49:45.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=63, z=-3432} BlockPos{x=23, y=61, z=-3431}
+[14Jan2025 11:49:45.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=63, z=-3432} BlockPos{x=23, y=61, z=-3431}
+[14Jan2025 11:49:48.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=63, z=-3427} BlockPos{x=19, y=62, z=-3427}
+[14Jan2025 11:51:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> how far away are u from the base
+[14Jan2025 11:51:13.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> 996 m
+[14Jan2025 11:51:24.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> okay making u a canoe
+[14Jan2025 11:51:31.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> oki
+[14Jan2025 11:55:01.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> damn so much bismuth
+[14Jan2025 12:00:09.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> 200m away from base
+[14Jan2025 12:00:20.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> lol that bismuth gathering took some time
+[14Jan2025 12:00:21.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> okay were waiting for you to figure out where were moving
+[14Jan2025 12:00:33.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> make some molds
+[14Jan2025 12:00:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> we have too much metal
+[14Jan2025 12:00:44.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> and clay
+[14Jan2025 12:00:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> make everything of alloy
+[14Jan2025 12:03:20.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> i found 4 bladder, water flask for all of us
+[14Jan2025 12:03:37.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> sheepskin, lot of metal, meat and clay
+[14Jan2025 12:03:54.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> nice
+[14Jan2025 12:04:05.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> i have some tannin in the barrel
+[14Jan2025 12:04:08.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> time to make leather
+[14Jan2025 12:04:10.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> nice
+[14Jan2025 12:04:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> we need limewater still tho
+[14Jan2025 12:04:23.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> limewater from molusk i think ?
+[14Jan2025 12:04:53.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> i think
+[14Jan2025 12:05:27.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> whers the spindle ?
+[14Jan2025 12:05:39.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> oh we didnt make one lol
+[14Jan2025 12:10:56.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> isnt there something that can cook multiple things at once?
+[14Jan2025 12:11:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> wdym like molds?
+[14Jan2025 12:11:12.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> you can put 4 things in 1 hole
+[14Jan2025 12:11:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> no like cook food
+[14Jan2025 12:11:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> prob the grill
+[14Jan2025 12:11:35.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> can we make a grill?
+[14Jan2025 12:11:48.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> we dont have anvil
+[14Jan2025 12:12:00.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> or wrought iroini
+[14Jan2025 12:12:02.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> iron
+[14Jan2025 12:12:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> we have iron though, and a hammer for anvil
+[14Jan2025 12:13:48.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> guys make more molds and use some metals
+[14Jan2025 12:14:04.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> having soo much metal will mean we have to move them
+[14Jan2025 12:14:15.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> cant we just move it in a vessel
+[14Jan2025 12:14:39.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> is there a limit on how many large vessel we can carry ?
+[14Jan2025 12:14:41.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> cause we can carry the tannin barrel on our back
+[14Jan2025 12:15:05.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> cant carry more than 1
+[14Jan2025 12:15:14.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> carry heavy vessel on your back
+[14Jan2025 12:15:37.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> alright we can carry 2 then
+[14Jan2025 12:16:03.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> still too many things we have i feel like
+[14Jan2025 12:17:32.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> 18 wool
+[14Jan2025 12:18:56.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> wheres the saw ?
+[14Jan2025 12:20:34.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kyslucky> we should just leave stuff thats easy to get
+[14Jan2025 12:20:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> someone make the wool
+[14Jan2025 12:22:20.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> do you have more yarn
+[14Jan2025 12:23:08.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_Adachi has made the advancement [Sweet Dreams]
+[14Jan2025 12:23:54.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> should we set the sleep percentage so only one player has to sleep? or would you guys rather have all of us sleep to skip night ?
+[14Jan2025 12:24:04.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> also set respawn again
+[14Jan2025 12:24:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled has made the advancement [Sweet Dreams]
+[14Jan2025 12:26:54.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> we still have 100 clay lol
+[14Jan2025 12:27:43.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> also guys what do you think about how many players should sleep to skip night ?
+[14Jan2025 12:28:17.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> idk
+[14Jan2025 12:29:43.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> molds are in small chest
+[14Jan2025 12:33:20.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GetSkittled> what alloys do we want
+[14Jan2025 12:34:08.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> no idea lol, have to check
+[14Jan2025 12:36:54.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sakura_Adachi> subtropical
