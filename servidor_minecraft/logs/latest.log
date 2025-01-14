@@ -1457,3 +1457,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Jan2025 09:32:08.221] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from kyslucky
 [14Jan2025 09:32:19.167] [Server thread/INFO] [do_a_barrel_roll/]: Client of kyslucky accepted server config.
 [14Jan2025 09:36:01.496] [Server thread/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Collapse started at pos BlockPos{x=-1, y=64, z=-3421}, with the block column Block{minecraft:air} -> (start: Block{tfc:rock/raw/rhyolite}[axis=y]) -> Block{minecraft:air}
+[14Jan2025 09:37:56.239] [Server thread/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Collapse started at pos BlockPos{x=3, y=62, z=-3421}, with the block column Block{tfc:rock/raw/rhyolite}[axis=y] -> (start: Block{tfc:rock/raw/rhyolite}[axis=y]) -> Block{minecraft:air}
+[14Jan2025 09:38:38.147] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[14Jan2025 09:38:38.147] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.dries007.tfc.common.blocks.devices.QuernBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14Jan2025 09:38:39.095] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[14Jan2025 09:38:39.095] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.dries007.tfc.common.blocks.devices.QuernBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14Jan2025 09:40:52.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kyslucky lost connection: Disconnected
+[14Jan2025 09:40:52.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kyslucky left the game
+[14Jan2025 09:40:52.758] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 30eca192-83d2-38d1-93f5-8989dda1c4d2
+[14Jan2025 09:40:52.758] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged Out - Checking for Calendar Updates.
+[14Jan2025 09:40:52.758] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
+[14Jan2025 09:40:52.795] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 09:54:30.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GetSkittled lost connection: Timed out
+[14Jan2025 09:54:30.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled left the game
+[14Jan2025 09:54:30.644] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 41a1a346-8f47-31d0-a771-2b6132c5bfa1
+[14Jan2025 09:54:30.644] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged Out - Checking for Calendar Updates.
+[14Jan2025 09:54:30.644] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = false, Daylight = false (true) due to no players logged in
+[14Jan2025 09:54:42.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GetSkittled[/100.117.69.83:55272] logged in with entity id 46267 at (7.712673409438877, 64.0, -3434.833773190603)
+[14Jan2025 09:54:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled joined the game
+[14Jan2025 09:54:42.392] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to GetSkittled
+[14Jan2025 09:54:42.394] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 41a1a346-8f47-31d0-a771-2b6132c5bfa1
+[14Jan2025 09:54:42.403] [Server thread/INFO] [Jade/]: Syncing config to GetSkittled (41a1a346-8f47-31d0-a771-2b6132c5bfa1)
+[14Jan2025 09:54:42.403] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged In - Checking for Calendar Updates.
+[14Jan2025 09:54:42.403] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
+[14Jan2025 09:54:44.389] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from GetSkittled
+[14Jan2025 09:54:55.315] [Server thread/INFO] [do_a_barrel_roll/]: Client of GetSkittled accepted server config.
