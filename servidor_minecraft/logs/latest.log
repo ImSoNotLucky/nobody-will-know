@@ -995,3 +995,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Jan2025 10:27:07.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled was squashed by a falling block
 [15Jan2025 10:27:08.911] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [15Jan2025 10:27:09.013] [Server thread/INFO] [do_a_barrel_roll/]: Client of GetSkittled accepted server config.
+[15Jan2025 10:32:11.361] [Server thread/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Collapse started at pos BlockPos{x=5822, y=56, z=7448}, with the block column Block{tfc:rock/raw/basalt}[axis=y] -> (start: Block{tfc:rock/raw/basalt}[axis=y]) -> Block{minecraft:air}
+[15Jan2025 10:34:12.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GetSkittled lost connection: Disconnected
+[15Jan2025 10:34:12.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled left the game
+[15Jan2025 10:34:12.818] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 41a1a346-8f47-31d0-a771-2b6132c5bfa1
+[15Jan2025 10:34:12.819] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged Out - Checking for Calendar Updates.
+[15Jan2025 10:34:12.819] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = false, Daylight = false (true) due to no players logged in
+[15Jan2025 10:37:33.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GetSkittled[/100.117.69.83:49198] logged in with entity id 45727 at (5841.31623925755, 72.0, 7383.302993157061)
+[15Jan2025 10:37:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled joined the game
+[15Jan2025 10:37:33.118] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to GetSkittled
+[15Jan2025 10:37:33.120] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 41a1a346-8f47-31d0-a771-2b6132c5bfa1
+[15Jan2025 10:37:33.154] [Server thread/INFO] [Jade/]: Syncing config to GetSkittled (41a1a346-8f47-31d0-a771-2b6132c5bfa1)
+[15Jan2025 10:37:33.154] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged In - Checking for Calendar Updates.
+[15Jan2025 10:37:33.154] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = true, Daylight = true due to players logged in
+[15Jan2025 10:37:34.899] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from GetSkittled
+[15Jan2025 10:37:46.192] [Server thread/INFO] [do_a_barrel_roll/]: Client of GetSkittled accepted server config.
+[15Jan2025 10:40:12.976] [Server thread/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Collapse started at pos BlockPos{x=5837, y=44, z=7202}, with the block column Block{tfc:rock/raw/basalt}[axis=y] -> (start: Block{tfc:rock/raw/basalt}[axis=y]) -> Block{minecraft:air}
+[15Jan2025 10:40:13.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled is bleeding. GetSkittled was squashed by a falling block
+[15Jan2025 10:40:22.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled was squashed by a falling block
+[15Jan2025 10:40:23.981] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Jan2025 10:40:24.037] [Server thread/INFO] [do_a_barrel_roll/]: Client of GetSkittled accepted server config.
+[15Jan2025 10:53:17.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GetSkittled lost connection: Disconnected
+[15Jan2025 10:53:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GetSkittled left the game
+[15Jan2025 10:53:17.419] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 41a1a346-8f47-31d0-a771-2b6132c5bfa1
+[15Jan2025 10:53:17.419] [Server thread/INFO] [net.dries007.tfc.util.calendar.CalendarEventHandler/]: Player Logged Out - Checking for Calendar Updates.
+[15Jan2025 10:53:17.419] [Server thread/INFO] [net.dries007.tfc.util.calendar.Calendar/]: Calendar = false, Daylight = false (true) due to no players logged in
